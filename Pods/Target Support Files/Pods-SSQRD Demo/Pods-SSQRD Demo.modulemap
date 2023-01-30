@@ -1,0 +1,6 @@
+framework module Pods_SSQRD_Demo {
+  umbrella header "Pods-SSQRD Demo-umbrella.h"
+
+  export *
+  module * { export * }
+}

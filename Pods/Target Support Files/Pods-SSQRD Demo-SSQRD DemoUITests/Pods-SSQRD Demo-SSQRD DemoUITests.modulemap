@@ -1,0 +1,6 @@
+framework module Pods_SSQRD_Demo_SSQRD_DemoUITests {
+  umbrella header "Pods-SSQRD Demo-SSQRD DemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
